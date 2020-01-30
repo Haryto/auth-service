@@ -38,3 +38,7 @@ docker-compose up -d --force-recreate
 ### RabbitMQ management
 [http://localhost:15672/](http://localhost:15672/) **[guest:guest]**
 
+# UPDATE
+
+### API documentation:
+https://documenter.getpostman.com/view/4737882/SWTBedMv?version=latest
